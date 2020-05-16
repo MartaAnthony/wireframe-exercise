@@ -11,6 +11,10 @@ li {
   padding: 30px;
 }
 
+.navigation {
+  background-color: rgb(250, 211, 231);
+}
+
 #logo {
   padding-left: 0px;
 }
