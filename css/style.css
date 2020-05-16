@@ -6,9 +6,17 @@ body {
   margin-top: 50px;
 }
 
+header {
+  background-color: rgb(181, 247, 244);
+}
+
 li {
   float: left;
   padding: 30px;
+}
+
+.navigation {
+  background-color: rgb(250, 211, 231);
 }
 
 #logo {
